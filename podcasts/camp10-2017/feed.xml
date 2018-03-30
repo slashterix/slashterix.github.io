@@ -14,9 +14,9 @@
 		<item>
 			<title>Sept 1 2017 - Evening</title>
 			<description><![CDATA[
-			Test
+			Sept 1 2017 - Evening
 			]]></description>
-			<enclosure length="156873290" type="audio/mpeg" url="http://stevenbarre.com/podcasts/camp10-2017/1-Sept1-Evening.mp3" />
+			<enclosure length="20312092" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/1-Sept1-Evening.mp3" />
 			<pubDate>Fri, 1 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
@@ -24,7 +24,10 @@
 		</item>
 		<item>
 			<title>Sept 2 2017 - Morning</title>
-			<link>http://stevenbarre.com/podcasts/camp10-2017/2-Sept2-Morning.mp3</link>
+			<description><![CDATA[
+			Sept 2 2017 - Morning
+			]]></description>
+			<enclosure length="27392738" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/2-Sept2-Morning.mp3" />
 			<pubDate>Sat, 2 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
@@ -32,7 +35,10 @@
 		</item>
 		<item>
 			<title>Sept 2 2017 - Evening</title>
-			<link>http://stevenbarre.com/podcasts/camp10-2017/3-Sept2-Evening.mp3</link>
+			<description><![CDATA[
+			Sept 2 2017 - Evening
+			]]></description>
+			<enclosure length="25532820" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/3-Sept2-Evening.mp3" />
 			<pubDate>Sat, 2 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
@@ -40,7 +46,10 @@
 		</item>
 		<item>
 			<title>Sept 3 2017 - Morning</title>
-			<link>http://stevenbarre.com/podcasts/camp10-2017/4-Sept3-Morning.mp3</link>
+			<description><![CDATA[
+			Sept 3 2017 - Morning
+			]]></description>
+			<enclosure length="23694218" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/4-Sept3-Morning.mp3" />
 			<pubDate>Sun, 3 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
@@ -48,7 +57,10 @@
 		</item>
 		<item>
 			<title>Sept 3 2017 - Evening</title>
-			<link>http://stevenbarre.com/podcasts/camp10-2017/5-Sept3-Evening.mp3</link>
+			<description><![CDATA[
+			Sept 3 2017 - Evening
+			]]></description>
+			<enclosure length="38983583" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/5-Sept3-Evening.mp3" />
 			<pubDate>Sun, 3 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
@@ -56,7 +68,10 @@
 		</item>
 		<item>
 			<title>Sept 4 2017 - Morning</title>
-			<link>http://stevenbarre.com/podcasts/camp10-2017/6-Sept4-Morning.mp3</link>
+			<description><![CDATA[
+			Sept 4 2017 - Morning
+			]]></description>
+			<enclosure length="20,957,839" type="audio/mpeg" url="http://www.stevenbarre.com/podcasts/camp10-2017/6-Sept4-Morning.mp3" />
 			<pubDate>Mon, 4 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
