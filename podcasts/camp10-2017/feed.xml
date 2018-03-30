@@ -13,7 +13,10 @@
 		</image>
 		<item>
 			<title>Sept 1 2017 - Evening</title>
-			<enclosure type="audio/mpeg" url="http://stevenbarre.com/podcasts/camp10-2017/1-Sept1-Evening.mp3" />
+			<description><![CDATA[
+			Test
+			]]></description>
+			<enclosure length=156873290 type="audio/mpeg" url="http://stevenbarre.com/podcasts/camp10-2017/1-Sept1-Evening.mp3" />
 			<pubDate>Fri, 1 Sep 2017 12:00:00 GMT</pubDate>
 			<author>Nate Bramsen</author>
 			<category>Sermon</category>
